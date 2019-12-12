@@ -1,0 +1,3 @@
+<map id="BipedalLocomotionControllers::YarpUtilities::is_resizable&lt; T, std::void_t&lt; decltype(std::declval&lt; T &gt;().resize(std::declval&lt; int &gt;()))&gt; &gt;" name="BipedalLocomotionControllers::YarpUtilities::is_resizable&lt; T, std::void_t&lt; decltype(std::declval&lt; T &gt;().resize(std::declval&lt; int &gt;()))&gt; &gt;">
+<area shape="rect" id="node2" href="/home/gromualdi/robot-code/bipedal-locomotion-controllers/doxygen/tags/cppreference-doxygen-web.tag.xml$cpp/types/integral_constant.html" title="std::true_type" alt="" coords="65,5,167,32"/>
+</map>
