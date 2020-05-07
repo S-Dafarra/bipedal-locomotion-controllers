@@ -122,6 +122,8 @@ endmacro()
 find_package(iDynTree 0.11.105 REQUIRED) #Right now, all the packages built in the framework
                                          #depend directly or indirectly from iDynTree
 
+message(${iDynTree_LIBRARIES})
+
 find_package(YARP QUIET)
 checkandset_dependency(YARP)
 
